@@ -99,3 +99,6 @@ trie.insert("app");
 console.log(trie.search("app"));     // return True
 
 trie.root._getList();
+
+// Runtime: 428 ms, faster than 13.15% of JavaScript online submissions for Implement Trie (Prefix Tree).
+// Memory Usage: 66 MB, less than 32.15% of JavaScript online submissions for Implement Trie (Prefix Tree).
