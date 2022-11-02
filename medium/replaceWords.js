@@ -23,3 +23,6 @@ var replaceWords = function(dictionary, sentence) {
 
 console.log(replaceWords(["cat","bat","rat"], "the cattle was rattled by the battery"));
 console.log(replaceWords(["a","b","c"], "aadsfasf absbs bbab cadsfafs"));
+
+// Runtime: 710 ms, faster than 30.30% of JavaScript online submissions for Replace Words.
+// Memory Usage: 54.6 MB, less than 56.82% of JavaScript online submissions for Replace Words.
